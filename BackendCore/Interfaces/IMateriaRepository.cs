@@ -4,7 +4,7 @@ namespace Backend.Core.Interfaces
 {
     public interface IMateriaRepository
     {
-        Task<object> GetMaterias();
+        Task<object> GetMateria();
 
     }
 }

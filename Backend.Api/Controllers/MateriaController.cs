@@ -21,13 +21,13 @@ namespace Backend.Api.Controllers
         }
 
         [HttpGet]
-        [Route("GetMaterias")]
+        [Route("GetMateria")]
         public async Task<IActionResult> GetMaterias()
         {
             try
             {
-                _logger.LogInformation("Get Materias Controller");
-                var materias = await _materiaRepository.GetMaterias();
+                _logger.LogInformation("Get Materia Controller");
+                var materias = await _materiaRepository.GetMateria();
                 return Ok(materias);
             }
             catch (Exception error)

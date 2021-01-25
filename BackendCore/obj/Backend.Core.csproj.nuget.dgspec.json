@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\Backend.Core.csproj": {}
+    "C:\\Users\\ingdi\\Desktop\\backend\\BackendCore\\Backend.Core.csproj": {}
   },
   "projects": {
-    "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\Backend.Core.csproj": {
+    "C:\\Users\\ingdi\\Desktop\\backend\\BackendCore\\Backend.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\Backend.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ingdi\\Desktop\\backend\\BackendCore\\Backend.Core.csproj",
         "projectName": "Backend.Core",
-        "projectPath": "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\Backend.Core.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\obj\\",
+        "projectPath": "C:\\Users\\ingdi\\Desktop\\backend\\BackendCore\\Backend.Core.csproj",
+        "packagesPath": "C:\\Users\\ingdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingdi\\Desktop\\backend\\BackendCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ingdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -96,10 +96,7 @@ namespace Backend.Infraestructure.Repositories
                     }
                     if (con.State == ConnectionState.Open)
                     {
-                        var query = "select Id_Inscripcion as IdInscripcion, i.id_Materia as IdMateria, " +
-                            "Sigla , nombre, i.id_estudiante as IdEstudiante, ci, nombres, apellidos " +
-                            "from inscripcion i, estudiante e, materia m " +
-                            "where i.id_materia =:id_materia and i.id_estudiante = e.id_estudiante and i.id_materia = m.id_materia";
+                        var query = "select Id_Inscripcion as IdInscripcion, i.id_Materia as IdMateria, Sigla , nombre, i.id_estudiante as IdEstudiante, ci, nombres, apellidos from inscripcion i, estudiante e, materia m where i.id_materia =:id_materia and i.id_estudiante = e.id_estudiante and i.id_materia = m.id_materia";
                         result = await SqlMapper.QueryAsync<Object>(con, query, param: dynamicParameter, commandType: CommandType.Text);
                     }
                 }

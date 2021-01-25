@@ -22,7 +22,7 @@ namespace Backend.Infraestructure.Repositories
             _logger = logger;
         }
 
-        public async Task<object> GetMaterias()
+        public async Task<object> GetMateria()
         {
             object result = null;
             try

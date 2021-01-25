@@ -85,12 +85,8 @@ namespace Backend.Infraestructure.Repositories
         }
         public async Task<bool> GenerarDatos()
         {
-            var RandomNombres = new string[] { "Juan", "Maria", "Rodrigo", "Jose", "Marco", "Osvaldo",
-                "Juana", "Rocio", "Lucia", "Mariel", "Tito", "Andres", "Roxana", "Leticia", "Ruth", "Mario",
-                "Miriam", "Ruben", "Daniel", "Omar", "Carlos" };
-            var RandomApellidos = new string[] { "Carvajal", "Lopez", "Conde", "Roque", "Rocha", "Martinez",
-                "Lucana", "Arce", "Quintana", "Rodriguez", "Alvarez", "Quispe", "Mamani", "Rojas", "Vaca",
-                "Barba", "Soria", "Gonzales", "Palacios", "Reyes" };
+            var RandomNombres = new string[] { "Juan", "Maria", "Rodrigo", "Jose", "Marco", "Osvaldo", "Juana", "Rocio", "Lucia", "Mariel", "Tito", "Andres", "Roxana", "Leticia", "Ruth", "Mario", "Miriam", "Ruben", "Daniel", "Omar", "Carlos" };
+            var RandomApellidos = new string[] { "Carvajal", "Lopez", "Conde", "Roque", "Rocha", "Martinez", "Lucana", "Arce", "Quintana", "Rodriguez", "Alvarez", "Quispe", "Mamani", "Rojas", "Vaca","Barba", "Soria", "Gonzales", "Palacios", "Reyes" };
             int contador = 0;
             int result;
             try
