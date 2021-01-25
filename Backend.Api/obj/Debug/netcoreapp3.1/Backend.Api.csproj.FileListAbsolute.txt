@@ -1,0 +1,108 @@
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Core.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Infraestructure.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csprojAssemblyReference.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.AssemblyInfoInputs.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.AssemblyInfo.cs
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\staticwebassets\Backend.Api.StaticWebAssets.Manifest.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\staticwebassets\Backend.Api.StaticWebAssets.xml
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.Api.styles.css
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.RazorTargetAssemblyInfo.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csproj.CoreCompileInputs.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.exe
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.deps.json
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.runtimeconfig.json
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.runtimeconfig.dev.json
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.pdb
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Infraestructure.pdb
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Core.pdb
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csproj.CopyComplete
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.pdb
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.genruntimeconfig.cache
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\juli_\source\repos\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.exe
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.deps.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.runtimeconfig.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.runtimeconfig.dev.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Api.pdb
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Core.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Infraestructure.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Infraestructure.pdb
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\bin\Debug\netcoreapp3.1\Backend.Core.pdb
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csprojAssemblyReference.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.AssemblyInfoInputs.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.AssemblyInfo.cs
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csproj.CoreCompileInputs.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\staticwebassets\Backend.Api.StaticWebAssets.Manifest.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\staticwebassets\Backend.Api.StaticWebAssets.xml
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.Api.styles.css
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.RazorTargetAssemblyInfo.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.csproj.CopyComplete
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.pdb
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\Backend.Api\obj\Debug\netcoreapp3.1\Backend.Api.genruntimeconfig.cache

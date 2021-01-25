@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MV5esTdj5pNl9MQ84c+DTUOenJsl1xEGFL4wAyzS4cklU46pGbcN7mUL9TPkyXSVLCnE57+nmEd4KvG6quGjDQ==",
+  "success": true,
+  "projectFilePath": "F:\\PROYECTO NACIONAL\\Desarrollo\\Microproyecto\\BackendAcademico\\BackendCore\\Backend.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

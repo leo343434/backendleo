@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Infraestructure\Backend.Infraestructure.csproj" />
+    <ProjectReference Include="..\BackendCore\Backend.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

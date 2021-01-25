@@ -1,0 +1,18 @@
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.AssemblyInfoInputs.cache
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.AssemblyInfo.cs
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.deps.json
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.dll
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.pdb
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.dll
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.pdb
+C:\Users\juli_\source\repos\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.csprojAssemblyReference.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.deps.json
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\bin\Debug\netstandard2.0\Backend.Core.pdb
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.csprojAssemblyReference.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.AssemblyInfoInputs.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.AssemblyInfo.cs
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.csproj.CoreCompileInputs.cache
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.dll
+F:\PROYECTO NACIONAL\Desarrollo\Microproyecto\BackendAcademico\BackendCore\obj\Debug\netstandard2.0\Backend.Core.pdb
